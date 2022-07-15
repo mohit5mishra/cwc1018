@@ -1,0 +1,35 @@
+body{
+    background-color: deepskyblue;
+}
+
+h1{
+    font-family:sans-serif;
+    color:green;
+    background-color: darkblue;
+}
+
+#sketch_name{
+    color:darkred;    
+}
+
+#show_sketch{
+    float:right;
+}
+
+p ,span{
+    padding-top:10px;
+    font-family:cursive;
+    font-size:25px;
+}
+
+#score{
+    font-size:35px;
+    margin-left:20px;
+}
+
+#time{
+    font-size:35px;
+    float:right;
+    margin-right:20px;
+    
+}
